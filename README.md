@@ -1,5 +1,9 @@
 # Задача о раскраске полигонов
 
+
+<img src="https://img.shields.io/badge/used-python%203.8-orange"> <img src="https://img.shields.io/badge/used-flask-orange"> <img src="https://img.shields.io/badge/used-PyCairo-orange"> <img src="https://img.shields.io/badge/used-html-orange">
+
+
 Данная задача является лабораторной работой по курсу "Разработка программных систем" в университете.
 
 > Разработать web-программу для рисования конечно-элементной сетки по данным таблиц базы данных femdb. 
@@ -73,7 +77,7 @@ class Triangle:
 
 Работа программы для тестовой БД(генерируется векторное изображение):  
 
-<img src="https://i.ibb.co/26t0Xg1/7-XS-Jk-V1-TVs.jpg" alt="7-XS-Jk-V1-TVs" border="0">
+<img src="https://i.ibb.co/26t0Xg1/7-XS-Jk-V1-TVs.jpg" alt="7-XS-Jk-V1-TVs" border="1">
 
 Для создания тестовой БД femdb можно использовать следующую последовательность SQL-запросов:
 
