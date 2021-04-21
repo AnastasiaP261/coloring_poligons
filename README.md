@@ -1,7 +1,7 @@
 # Задача о раскраске полигонов
 
 
-<img src="https://img.shields.io/badge/used-python%203.8-orange"> <img src="https://img.shields.io/badge/used-flask-orange"> <img src="https://img.shields.io/badge/used-PyCairo-orange"> <img src="https://img.shields.io/badge/used-html-orange">
+<img src="https://img.shields.io/badge/used-python%203.8-orange"> <img src="https://img.shields.io/badge/used-flask-orange"> <img src="https://img.shields.io/badge/used-PyCairo-orange"> <img src="https://img.shields.io/badge/used-html-orange"> <img src="https://img.shields.io/badge/used-MySQL-orange">
 
 
 Данная задача является лабораторной работой по курсу "Разработка программных систем" в университете.
